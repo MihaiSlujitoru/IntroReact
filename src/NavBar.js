@@ -13,7 +13,7 @@ const NavBar = () => {
   return (
     <header
       css={css`
-        background-color: ${colors.primary};
+        background-color: ${colors.dark};
         padding: 15px;
       `}
     >
